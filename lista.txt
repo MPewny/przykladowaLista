@@ -1,0 +1,36 @@
+Lista urządzeń do sprawdzenia:
+1. Telefon
+2. Komputer
+
+1. Telefon
+  a) Aplikacje
+    Czaty:
+    -Messanger
+    -Telegram
+    -GG
+    Kontakty:
+    -email
+    -Kontakty (aplikacja)
+    Możliwe informacje:
+    -Galeria Zdjęć
+    -Dane Autokorekty
+    -Przeglądarki
+    -Aplikacja Fb, Instagram itp
+    -Notatki
+    Finanse:
+    -Aplikacje Bankowe
+    -Portfel Kryptowalutowy
+    
+2. Komputer
+  a) Aplikacje
+    -Przeglądarki
+    -Gry
+    -Mnóstwo pobranych rzeczy z internetu
+    -Antywirus
+  b) Pliki
+    -Pliki tekstowe
+    -Zdjęcia
+  c) Dane Użytkownika
+    -Cookies i Cache przeglądarek
+    -Historia przeglądania
+    -Logi systemu
